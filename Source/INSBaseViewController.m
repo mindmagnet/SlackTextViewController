@@ -11,7 +11,7 @@
 #import "INSCirclePullToRefresh.h"
 #import "INSTwitterPullToRefresh.h"
 #import <INSPullToRefresh/INSDefaultInfiniteIndicator.h>
-#import "INSDefaultPullToRefresh.h"
+#import <INSPullToRefresh/INSDefaultPullToRefresh.h>
 #import "INSVinePullToRefresh.h"
 #import "INSPinterestPullToRefresh.h"
 #import "INSLabelPullToRefresh.h"
