@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "INSAnimatable.h"
+#import <INSPullToRefresh/INSAnimatable.h>
 #import <INSPullToRefresh/INSDefaultPullToRefresh.h>
 
 typedef NS_ENUM(NSUInteger, INSPullToRefreshStyle){

@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#include "INSAnimatable.h"
+#import <INSPullToRefresh/INSAnimatable.h>
 
 @interface INSLappsyInfiniteIndicator : UIImageView <INSAnimatable>
 

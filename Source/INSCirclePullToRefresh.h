@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "INSPullToRefreshBackgroundView.h"
+#import <INSPullToRefresh/INSPullToRefreshBackgroundView.h>
 
 @interface INSCirclePullToRefresh : UIView <INSPullToRefreshBackgroundViewDelegate>
 @end

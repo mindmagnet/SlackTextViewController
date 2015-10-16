@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "INSAnimatable.h"
+#import <INSPullToRefresh/INSAnimatable.h>
 
 @interface INSCircleInfiniteIndicator : UIView <INSAnimatable>
 @end

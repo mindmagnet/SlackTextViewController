@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import "UIScrollView+INSPullToRefresh.h"
+#import <INSPullToRefresh/UIScrollView+INSPullToRefresh.h>
 
 @interface INSLappsyPullToRefresh : UIImageView <INSPullToRefreshBackgroundViewDelegate>
 
