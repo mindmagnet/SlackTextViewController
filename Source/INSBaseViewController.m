@@ -10,7 +10,7 @@
 #import "INSCircleInfiniteIndicator.h"
 #import "INSCirclePullToRefresh.h"
 #import "INSTwitterPullToRefresh.h"
-#import "INSDefaultInfiniteIndicator.h"
+#import <INSPullToRefresh/INSDefaultInfiniteIndicator.h>
 #import "INSDefaultPullToRefresh.h"
 #import "INSVinePullToRefresh.h"
 #import "INSPinterestPullToRefresh.h"
