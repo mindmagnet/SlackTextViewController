@@ -25,7 +25,7 @@
 #import "SLKTextView+SLKAdditions.h"
 #import "UIScrollView+SLKAdditions.h"
 #import "UIView+SLKAdditions.h"
-
+#import <ICSRefreshVC.h>
 #import "SLKUIConstants.h"
 
 /**
@@ -47,7 +47,7 @@ typedef NS_ENUM(NSUInteger, SLKKeyboardStatus) {
 };
 
 /** @name A drop-in UIViewController subclass with a growing text input view and other useful messaging features. */
-NS_CLASS_AVAILABLE_IOS(7_0) @interface SLKTextViewController : UIViewController <UITextViewDelegate, UITableViewDelegate, UITableViewDataSource, UICollectionViewDelegate, UICollectionViewDataSource, UIGestureRecognizerDelegate, UIAlertViewDelegate>
+NS_CLASS_AVAILABLE_IOS(7_0) @interface SLKTextViewController : ICSRefreshVC <UITextViewDelegate, UITableViewDelegate, UITableViewDataSource, UICollectionViewDelegate, UICollectionViewDataSource, UIGestureRecognizerDelegate, UIAlertViewDelegate>
 
 /** The main table view managed by the controller object. Created by default initializing with -init or initWithNibName:bundle: */
 @property (nonatomic, readonly) UITableView *tableView;

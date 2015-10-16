@@ -1,17 +1,20 @@
 PODS:
+  - INSPullToRefresh (1.0.12)
   - LoremIpsum (1.0.0)
-  - SlackTextViewController (1.7)
+  - SlackTextViewController (1.7.1)
 
 DEPENDENCIES:
+  - INSPullToRefresh (~> 1.0)
   - LoremIpsum (~> 1.0)
   - SlackTextViewController (from `../SlackTextViewController.podspec`)
 
 EXTERNAL SOURCES:
   SlackTextViewController:
-    :path: "../SlackTextViewController.podspec"
+    :path: ../SlackTextViewController.podspec
 
 SPEC CHECKSUMS:
+  INSPullToRefresh: 3c3840b1837870d6553f749dab6520e31f551a76
   LoremIpsum: 9029c55d36501b2ee0b05cc9ecda11d3a0479160
-  SlackTextViewController: 57e28248dd38b9753277733544449519842f1ea5
+  SlackTextViewController: c79fce1fe39f4d993a7be4e737540f93410b80e6
 
-COCOAPODS: 0.39.0
+COCOAPODS: 0.38.2
