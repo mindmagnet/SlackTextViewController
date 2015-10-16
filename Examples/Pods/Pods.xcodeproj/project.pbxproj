@@ -30,7 +30,6 @@
 		6CB205C8B4804CEDF8EBBB15E1774004 /* INSPullToRefresh-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AA0FC3FFB47CCF1D1E697177CE7C6E96 /* INSPullToRefresh-dummy.m */; };
 		70A585ADF7D96BD340B93846F9303E32 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3646A165B68B95E00F017A88255D99D2 /* Foundation.framework */; };
 		721EE5DAF8ACBE64999867E40739C0C3 /* SLKTypingIndicatorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 3E4E7A2833164C1529A56F83CE92B457 /* SLKTypingIndicatorView.m */; };
-		728DE4C1B81530E5940B9ED04B9693A8 /* INSAnimatable.h in Headers */ = {isa = PBXBuildFile; fileRef = 996C71AF569316E5A8D12DB0B2A3F89A /* INSAnimatable.h */; };
 		81B5E11EA99646D26ECB49BD8FDF1E60 /* SLKInputAccessoryView.h in Headers */ = {isa = PBXBuildFile; fileRef = 86DA46CDDCAA5D9D6BD94619C8415719 /* SLKInputAccessoryView.h */; };
 		82E88D57D220C9783CFAAF765E52A94C /* SLKUIConstants.h in Headers */ = {isa = PBXBuildFile; fileRef = 6CC39F39BB76F09A9C723BB82D5FD7E7 /* SLKUIConstants.h */; };
 		843640BDAAD2CFFA44EAA407536EE415 /* INSCircleInfiniteIndicator.h in Headers */ = {isa = PBXBuildFile; fileRef = 578C7CB20BD7B491ED30D79B6E505B6D /* INSCircleInfiniteIndicator.h */; };
@@ -142,7 +141,6 @@
 		957A4821EC3537D96311AD2696A846DE /* INSLappsyInfiniteIndicator.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = INSLappsyInfiniteIndicator.h; sourceTree = "<group>"; };
 		984CEB807E0A1A80807F291955C1E8F7 /* SLKTextView+SLKAdditions.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SLKTextView+SLKAdditions.m"; sourceTree = "<group>"; };
 		995D0C72E4322AD31DA9BEEF47386ABF /* INSPullToRefreshBackgroundView.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = INSPullToRefreshBackgroundView.m; path = INSPullToRefresh/INSPullToRefreshBackgroundView.m; sourceTree = "<group>"; };
-		996C71AF569316E5A8D12DB0B2A3F89A /* INSAnimatable.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = INSAnimatable.h; sourceTree = "<group>"; };
 		9FBA2E5F10048D28C849BA3E9DBF61BD /* INSDefaultPullToRefresh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = INSDefaultPullToRefresh.h; path = INSPullToRefreshSampleControls/Default/INSDefaultPullToRefresh.h; sourceTree = "<group>"; };
 		A0FC54F844951350D781AB04103ACED9 /* SLKTextInputbar.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = SLKTextInputbar.m; sourceTree = "<group>"; };
 		A3DB47ADA5D795D9FC00F9C3608E46C0 /* INSBaseViewController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = INSBaseViewController.h; sourceTree = "<group>"; };
@@ -262,7 +260,6 @@
 			children = (
 				AB3242EAE14C6C326AD641529E3285F1 /* ICSRefreshVC.h */,
 				BF6966DA6EC284746E1A973DFDCCB0AB /* ICSRefreshVC.m */,
-				996C71AF569316E5A8D12DB0B2A3F89A /* INSAnimatable.h */,
 				A3DB47ADA5D795D9FC00F9C3608E46C0 /* INSBaseViewController.h */,
 				0CA122AF78006CDD095BE4801E446A4B /* INSBaseViewController.m */,
 				578C7CB20BD7B491ED30D79B6E505B6D /* INSCircleInfiniteIndicator.h */,
@@ -449,7 +446,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1A8EAD5C3A513B19C48A6144318B3A9A /* ICSRefreshVC.h in Headers */,
-				728DE4C1B81530E5940B9ED04B9693A8 /* INSAnimatable.h in Headers */,
 				C36D6A67DCF5810B92A38F4FACC38814 /* INSBaseViewController.h in Headers */,
 				843640BDAAD2CFFA44EAA407536EE415 /* INSCircleInfiniteIndicator.h in Headers */,
 				5D9AEABB39F891224E039E93D824A73D /* INSCirclePullToRefresh.h in Headers */,
