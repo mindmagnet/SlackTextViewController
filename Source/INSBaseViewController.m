@@ -16,7 +16,7 @@
 #import "INSPinterestPullToRefresh.h"
 #import "INSLabelPullToRefresh.h"
 #import "INSLappsyPullToRefresh.h"
-#include "INSLappsyInfiniteIndicator.h"
+#import "INSLappsyInfiniteIndicator.h"
 
 @interface INSBaseViewController ()
 
