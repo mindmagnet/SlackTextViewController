@@ -4,5 +4,4 @@ workspace 'Messenger.xcworkspace'
 platform :ios, '7.0'
 
 pod 'SlackTextViewController', :path => '../SlackTextViewController.podspec'
-pod 'INSPullToRefresh', '~> 1.0'
 pod 'LoremIpsum', '~> 1.0'

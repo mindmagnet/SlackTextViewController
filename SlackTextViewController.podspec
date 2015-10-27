@@ -16,5 +16,4 @@ Pod::Spec.new do |s|
 
   s.header_mappings_dir = 'Source'
   s.source_files 		= 'Source/**/*.{h,m}'
-  s.dependency 'INSPullToRefresh'
 end

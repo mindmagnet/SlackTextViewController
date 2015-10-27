@@ -20,10 +20,5 @@
   },
   "requires_arc": true,
   "header_mappings_dir": "Source",
-  "source_files": "Source/**/*.{h,m}",
-  "dependencies": {
-    "INSPullToRefresh": [
-
-    ]
-  }
+  "source_files": "Source/**/*.{h,m}"
 }

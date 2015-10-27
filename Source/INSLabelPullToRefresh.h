@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-#import <INSPullToRefresh/UIScrollView+INSPullToRefresh.h>
+#import "UIScrollView+INSPullToRefresh.h"
 
 @interface INSLabelPullToRefresh : UIView <INSPullToRefreshBackgroundViewDelegate>
 
