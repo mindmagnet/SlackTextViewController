@@ -25,7 +25,7 @@
 #import "SLKTextView+SLKAdditions.h"
 #import "UIScrollView+SLKAdditions.h"
 #import "UIView+SLKAdditions.h"
-#import <ICSRefreshVC.h>
+#import "ICSRefreshVC.h"
 #import "SLKUIConstants.h"
 
 /**
